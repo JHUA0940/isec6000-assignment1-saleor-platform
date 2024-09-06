@@ -7,7 +7,7 @@
 
 This project focuses on implementing Secure DevOps practices on the open-source Saleor platform. The goal is to enhance security during the build, deployment, and operational stages.
 
-### Key Changes
+## Key Changes
 
 - **Dashboard Port Modification:** The Saleor Dashboard is reconfigured to run on port **9002**.
 

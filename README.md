@@ -1,3 +1,40 @@
+# Secure DevOps Project for Saleor Platform
+
+**Project Owner:** Jiasheng Huang  
+**Student ID:** 21712836  
+
+## Project Overview
+
+This project focuses on implementing Secure DevOps practices on the open-source Saleor platform. The goal is to enhance security during the build, deployment, and operational stages.
+
+### Key Changes
+
+- **Dashboard Port Modification:** The Saleor Dashboard is reconfigured to run on port **9002**.
+
+## Security Measures
+
+Several security enhancements have been applied to this project, including but not limited to:
+
+- Applied secure Docker container configurations, including non-root users and resource limits.
+- Integrated vulnerability scanning tools to monitor and address potential issues during the build process.
+
+## Future Work
+
+Future phases of the project will include:
+
+- Implementing automated security tests in the CI/CD pipeline.
+- Adding other security controls to further secure the Saleor platform.
+- Deploying the platform and ensuring all components are secure.
+
+
+
+
+---
+
+*The following content is part of the original Saleor project:*
+
+
+
 ![Saleor Platform](https://user-images.githubusercontent.com/249912/71523206-4e45f800-28c8-11ea-84ba-345a9bfc998a.png)
 
 <div align="center">
